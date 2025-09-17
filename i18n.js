@@ -43,7 +43,7 @@ const I18N = {
         "• Apache 2.0: permisiva, sin obligación de devolver mejoras; protección de patentes.",
         "• MIT: muy permisiva y simple, sin garantías de retorno ni patentes."
       ],
-      "codeLinkHint": "Dónde enlazar la licencia del código",
+      "codeLinkHint": "Dónde enlazar la licencia del código (solo para el prompt IA)",
       "codeLinkOptions": {
         "archivo": "Crear LICENSE.txt y enlazar al archivo",
         "oficial": "Enlazar al sitio oficial de la licencia"
@@ -200,7 +200,7 @@ const I18N = {
         "• Apache 2.0: permissive, no obligation to return improvements; patent protection.",
         "• MIT: very permissive and simple, no requirement to share improvements or patents."
       ],
-      "codeLinkHint": "Where to link the code license",
+      "codeLinkHint": "Where to link the code license (AI prompt only)",
       "codeLinkOptions": {
         "archivo": "Create LICENSE.txt and link to that file",
         "oficial": "Link to the official license text"
@@ -357,7 +357,7 @@ const I18N = {
         "• Apache 2.0: permissiva, sense obligació de retornar millores; protecció de patents.",
         "• MIT: molt permissiva i simple, sense obligació de compartir millores ni patents."
       ],
-      "codeLinkHint": "On enllaçar la llicència del codi",
+      "codeLinkHint": "On enllaçar la llicència del codi (només per al prompt de la IA)",
       "codeLinkOptions": {
         "archivo": "Crea LICENSE.txt i enllaça-hi el text complet",
         "oficial": "Enllaça al text oficial de la llicència"
@@ -514,7 +514,7 @@ const I18N = {
         "• Apache 2.0: permisiva, sen obriga de devolver melloras; protección de patentes.",
         "• MIT: moi permisiva e sinxela, sen obriga de compartir melloras nin patentes."
       ],
-      "codeLinkHint": "Onde ligar a licenza do código",
+      "codeLinkHint": "Onde ligar a licenza do código (só para o prompt da IA)",
       "codeLinkOptions": {
         "archivo": "Crear LICENSE.txt e ligar ao ficheiro",
         "oficial": "Ligar ao texto oficial da licenza"
@@ -671,7 +671,7 @@ const I18N = {
         "• Apache 2.0: lizentzia baimendua, hobekuntzak itzultzeko betebeharrik gabe; patente babesa.",
         "• MIT: oso baimendua eta sinplea, hobekuntzak partekatzeko betebeharrik gabe."
       ],
-      "codeLinkHint": "Kodearen lizentzia non estekatu",
+      "codeLinkHint": "Kodearen lizentzia non estekatu (IA prompt-erako soilik)",
       "codeLinkOptions": {
         "archivo": "Sortu LICENSE.txt eta estekatu fitxategi hori",
         "oficial": "Estekatu lizentzia ofizialaren testura"
